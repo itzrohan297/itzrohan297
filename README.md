@@ -23,17 +23,9 @@ I'm a Computer Science student passionate about building innovative digital prod
 
 ### 🌟 Featured Projects
 
-**1. Priority Pose — AI-Powered Photography Platform**
-
-An AI-powered platform focused on pose discovery, photography guidance, camera studio experiences, and real-time pose matching.
-
 **2. 7Blocks CRM — Business Management Platform**
 
 A full-stack CRM platform designed to streamline client management, outreach workflows, email campaigns, and business operations.
-
-**3. Family Health App**
-
-A digital health management project focused on creating accessible and user-friendly experiences.
 
 ### 🎯 My Goals
 
@@ -46,7 +38,7 @@ A digital health management project focused on creating accessible and user-frie
 ### 🤝 Connect With Me
 
 - GitHub: [@itzrohan297](https://github.com/itzrohan297)
-- LinkedIn: Add your LinkedIn profile URL here.
+- LinkedIn: https://www.linkedin.com/in/rohan-pandey-698483337/
 
 ---
 
